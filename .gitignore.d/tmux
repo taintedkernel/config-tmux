@@ -1,0 +1,6 @@
+*
+!/bin
+!/bin/install-tmux.sh
+!/.gitignore.d
+!/.gitignore.d/tmux
+!/.tmux.conf
